@@ -1,3 +1,3 @@
 <template>
-
+  <layoutNav />
 </template>
